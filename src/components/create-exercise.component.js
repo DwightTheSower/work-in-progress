@@ -62,8 +62,8 @@ export default class CreateExercise extends Component {
       date: this.state.date
     }
 
-    console.log(exercise)
-    window.location = '/'
+    console.log(exercise);
+    window.location = '/';
   }
 
   render() {
