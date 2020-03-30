@@ -12,3 +12,6 @@
 6. Inside backend folder, create "server.js"
 
 7. Inside backend folder, create "models" folder and create the schema models
+
+
+https://www.youtube.com/watch?v=7CqJlxBYj-M
